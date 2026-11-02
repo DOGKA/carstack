@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" role="img" aria-labelledby="title">
+  <title id="title">CarStack logo</title>
+  <g>
+    <path fill="#BDBDBD" d="M30 73 75 48l45 25-45 26z"/>
+    <path fill="#303030" d="M30 61 75 36l45 25-45 26z"/>
+    <path fill="#E10600" d="M32 48 75 24l43 24-43 25z"/>
+    <path fill="#FFF" d="m69 40 13 8-13 8z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+Package: com.dogka.carstack
+Name: CarStack
+Version: @VERSION@
+Architecture: iphoneos-arm64
+Description: Full-screen YouTube web client for jailbroken CarPlay on iOS 18.
+Maintainer: DOGKA
+Author: DOGKA
+Section: Applications
+Depends: firmware (>= 18.0), firmware (<< 19.0)
+Priority: optional
+Homepage: https://github.com/DOGKA/CarStack

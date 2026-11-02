@@ -1,0 +1,17 @@
+Origin: CarStack
+Label: CarStack
+Suite: stable
+Version: 1.0
+Codename: carstack
+Architectures: iphoneos-arm64
+Components: main
+Description: CarStack packages for Dopamine rootless
+Date: Mon, 02 Nov 2026 08:00:39 UTC
+MD5Sum:
+ 0730f74924cbbd3334d1c1bfc34c210e              564 Packages
+ 904199995e56065c8f2ec0896ef177fd              419 Packages.gz
+ e4262045f8cf0fa14d8325ba133fbd05              445 Packages.bz2
+SHA256:
+ ccec8c2cd5d09c2696367c49f534a1bbacc9924c5accac34b02a44628bd5afde              564 Packages
+ dd447e09d55f74c8a3f72e008481b61eb45434d6d6c39e4eeac88fff5bd78021              419 Packages.gz
+ 6e5c42e2e41e75b3627e142f610fdf1dc78d77e2a7ef98cd94fa8029a8492326              445 Packages.bz2
