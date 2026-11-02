@@ -6,12 +6,12 @@ Codename: carstack
 Architectures: iphoneos-arm64
 Components: main
 Description: CarStack packages for Dopamine rootless
-Date: Mon, 02 Nov 2026 08:00:39 UTC
+Date: Mon, 02 Nov 2026 09:00:39 UTC
 MD5Sum:
- 0730f74924cbbd3334d1c1bfc34c210e              564 Packages
- 904199995e56065c8f2ec0896ef177fd              419 Packages.gz
- e4262045f8cf0fa14d8325ba133fbd05              445 Packages.bz2
+ d03614e081e12b25f9a9733d2e7f9751              577 Packages
+ 5d5c5d838abd550d7ef3076415e72a4c              428 Packages.gz
+ 1783cde17fca09084a57c7ff6cf5f13b              453 Packages.bz2
 SHA256:
- ccec8c2cd5d09c2696367c49f534a1bbacc9924c5accac34b02a44628bd5afde              564 Packages
- dd447e09d55f74c8a3f72e008481b61eb45434d6d6c39e4eeac88fff5bd78021              419 Packages.gz
- 6e5c42e2e41e75b3627e142f610fdf1dc78d77e2a7ef98cd94fa8029a8492326              445 Packages.bz2
+ 585d5bb24fb9e26c3a2fddd23eb28cf6a6df16b4fc8e6b34bea7660fc4ca022c              577 Packages
+ 49497b66c121799b3dc14c6b3ecae775a1d15666bebf05a79bd5e089383c1d82              428 Packages.gz
+ 1b1cb48ad21acf9fc774896154f50042a60028be4669045dd021babefeb31bc5              453 Packages.bz2

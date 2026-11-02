@@ -5,6 +5,9 @@
 	<!-- iOS 16+ DashBoard only indexes apps declaring a CarPlay app type. -->
 	<key>com.apple.developer.carplay-maps</key>
 	<true/>
+	<!-- iOS 26 adds a native video app declaration. Unknown keys are ignored on iOS 18. -->
+	<key>com.apple.developer.carplay-video</key>
+	<true/>
 	<key>SBStarkCapable</key>
 	<true/>
 	<key>com.apple.runningboard.assertions.webkit</key>
